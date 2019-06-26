@@ -1,0 +1,43 @@
+
+/*
+body{
+	
+		margin:0em;
+		font-size:1.5em;
+	
+}
+
+	.header{
+		background-color: cornflowerblue;
+	}
+	.row2{
+		background-color: darkcyan;
+	}
+		.row3{
+		background-color: cornflowerblue;
+	}
+	.container{
+		background-color: greenyellow;
+	}
+*/
+div.a {
+	text-align: center;
+		background-color:#82CCFB;
+		border-style: ridge;
+		border-color:#296187;
+		border-radius: 0.6em;
+	
+  padding-top: 1em;
+  padding-right: 0.5em;
+  padding-bottom: 0.5em;
+  padding-left: 0.5em;
+	
+		font-size: 1,75em;		
+		color: aliceblue;
+	}
+div.b {
+	
+	color:yellow;
+
+    font-size: xx-large;
+}
